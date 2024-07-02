@@ -1,0 +1,22 @@
+"Actúa como un programador especialista en diseño web. Dame un listado de tipo bullet con absolutamente todos los selectores que existen dentro de CSS. Dame una breve definición de cada uno, pero que no exceda más de dos oraciones. Además, luego de responderme yo te podré nombrar cualquiera de los selectores y tu deberás darme una explicación de este más detallado, junto con un ejemplo en código CSS."
+ChatGPT
+ChatGPT
+Aquí tienes un listado de algunos selectores CSS comunes junto con sus definiciones breves:
+
+Selector Universal (*): Selecciona todos los elementos en un documento HTML.
+Selector de Tipo (elemento): Selecciona elementos según su tipo (por ejemplo, div, p, a).
+Selector de Clase (.clase): Selecciona elementos que tienen asignada una clase específica en su atributo class.
+Selector de ID (#id): Selecciona un elemento según el valor único de su atributo id.
+Selector de Atributo ([atributo]): Selecciona elementos que tienen un atributo específico, independientemente de su valor.
+Selector de Atributo con Valor ([atributo="valor"]): Selecciona elementos que tienen un atributo específico con un valor específico.
+Selector de Atributo que Comienza con ([atributo^="valor"]): Selecciona elementos cuyo atributo comienza con el valor especificado.
+Selector de Atributo que Termina con ([atributo$="valor"]): Selecciona elementos cuyo atributo termina con el valor especificado.
+Selector de Atributo que Contiene ([atributo*="valor"]): Selecciona elementos cuyo atributo contiene el valor especificado en cualquier lugar.
+Selector de Descendencia (elemento elemento): Selecciona elementos secundarios de un elemento padre específico.
+Selector de Descendencia Directa (elemento > elemento): Selecciona elementos secundarios directos de un elemento padre específico.
+Selector de Grupo (selector, selector): Selecciona todos los elementos que coinciden con cualquiera de los selectores especificados.
+Selector de Pseudo-clase (:pseudo-clase): Selecciona elementos basados en un estado o posición en el documento (por ejemplo, :hover, :first-child).
+Selector de Pseudo-elemento (::pseudo-elemento): Selecciona y estiliza partes específicas de un elemento (por ejemplo, ::before, ::after).
+Cualquier selector que elijas, estaré encantado de proporcionarte una explicación más detallada y un ejemplo en código CSS.
+
+
